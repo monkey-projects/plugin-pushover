@@ -4,7 +4,7 @@
   <packaging>jar</packaging>
   <groupId>pushover</groupId>
   <artifactId>pushover</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.0-SNAPSHOT</version>
   <name>pushover</name>
   <dependencies>
     <dependency>
