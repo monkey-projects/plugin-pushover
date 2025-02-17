@@ -6,6 +6,7 @@ possible to send notifications from your builds.
 
 ## Usage
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.monkeyci/plugin-pushover.svg)](https://clojars.org/com.monkeyci/plugin-pushover)
 First include it in your build `deps.edn`:
 
 ```clojure
